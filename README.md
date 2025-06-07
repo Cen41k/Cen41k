@@ -79,8 +79,9 @@
 ## 🎒 Образование
 
 
-<br>
-<br>
+[<img src="/RU.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Cen41k/blob/main/RU.png) 
+[<img src="/ENG.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Cen41k/blob/main/ENG.png) 
+
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:skyfox145@gmail.com)
